@@ -1,0 +1,10 @@
+/**
+ * @author Jérémy Fornarino
+ * @date november 4, 2016
+ */
+#helpButton{
+    background-color: chartreuse;
+    width: 225px;
+    height:35px;
+    font-size: 20px;
+}
